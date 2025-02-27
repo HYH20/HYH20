@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Yuhang Hou.
 
+**`PhD Candidate in Fluid Mechanics | Computational Aerodynamics Researcher`**
 <!--
 **HYH20/HYH20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
